@@ -40,4 +40,5 @@ After training, the notebook shows:
  * <b>Stock Price Prediction and Error from Base RMSE</b>
 <img width="1187" height="989" alt="image" src="https://github.com/user-attachments/assets/1026be4a-0fc1-4932-8478-0e9288d947e6" />
 
-
+## Motive of this prject
+Just for understanding the real world implementation of LSTM. :) Thanks /\
