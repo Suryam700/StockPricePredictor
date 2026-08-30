@@ -34,7 +34,7 @@ After training, the notebook shows:
 `test rmse 11.11147689819336`
 
 ## Preview of Outputs:-
- * <b>Training and Validation for Diff-Diff Epochs(1-300)</b>
+ * <b>Training and Validation loss for Diff-Diff Epochs(1-300)</b>
 <img width="1001" height="701" alt="image" src="https://github.com/user-attachments/assets/98ae8fd8-47df-431e-9f46-72f13e555c11" />
 
  * <b>Stock Price Prediction and Error from Base RMSE</b>
